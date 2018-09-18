@@ -1,0 +1,52 @@
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Sistema XY</title>
+<link href="css/style_pages.css" rel="stylesheet">
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="js/bootstrap.min.js" rel="stylesheet">
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+</head>
+<body>
+
+	<div th:include="model_page"></div>
+
+	<div class="col-md-9 well admin-content" id="home">
+		<form action="#" method="POST" id="form" name="frm">
+			<div class="text-center">
+				<h2>
+					<ins>Cadastro de Dependente</ins>
+				</h2>
+				<br>
+				<br>
+			</div>
+			<b> CPF do hóspede principal: </b> <input type="text" name="cpf-dep" size="30" required><br> <br> <br> <br>
+			<b> Nome: </b> <input
+				type="text" name="nome" size="70" required> <br> <br>
+			<b> CPF: </b> <input type="text" name="cpf" size="30" required>
+			<br> <br> <b> Telefone: </b> <input type="number" name="telefone" size="30" required><br> <br> 
+			<b>	Sexo: </b><select name="sexo" id="sexo">
+				<option value="feminino" selected="selected">Feminino</option>
+				<option value="masculino">Masculino</option>
+			</select> <br>
+			<br> <br>
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="text-center">
+						<input type="submit" name="cadastrar-dep"
+							class="btn btn-success btn-lg" value="Cadastrar" onclick="">
+						<input type="reset" name="reset" class="btn btn-primary btn-lg"
+							value="Limpar Campos">
+					</div>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
