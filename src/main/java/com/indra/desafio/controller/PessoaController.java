@@ -23,5 +23,8 @@ public class PessoaController {
 		return "cadastrar_dependente";
 	}
 	
-	
+	@RequestMapping(method=RequestMethod.GET, value="/lista")
+	public String listarHospedes() {
+		return "listar_hospedes";
+	}
 }
