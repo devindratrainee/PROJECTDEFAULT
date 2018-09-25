@@ -1,0 +1,108 @@
+[33mcommit f857eddc7193649f1fa3926479fc2878f3153d52[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/fun[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfun[m[33m)[m
+Author: Diego Monteiro <djmonteiro@indracompany.com>
+Date:   Tue Sep 25 12:04:51 2018 -0300
+
+    Teste
+
+[33mcommit 364a527584501d807039c98769af262c42193c38[m
+Merge: b9771e9 8108342
+Author: Karen <43272178+KarenDCI@users.noreply.github.com>
+Date:   Tue Sep 18 14:35:11 2018 -0300
+
+    Merge pull request #13 from devindratrainee/sprint2
+    
+    Sprint2
+
+[33mcommit 81083420db3ceb9e846e23954127663b90ed76e4[m[33m ([m[1;31morigin/sprint2[m[33m)[m
+Author: Dantas Costa <kdantas@indra.es>
+Date:   Tue Sep 18 10:59:14 2018 -0300
+
+    Template do listar
+
+[33mcommit 64aa681087b23ed12636a20db7f03ebedea01311[m
+Author: Dantas Costa <kdantas@indra.es>
+Date:   Tue Sep 18 09:56:58 2018 -0300
+
+    Template cadastro
+
+[33mcommit b9771e98d5bb5a2269e7debfd27ec6deb4c8756a[m
+Author: root <root@localhost.localdomain>
+Date:   Mon Sep 17 16:11:34 2018 -0400
+
+    configuração do banco
+
+[33mcommit eef0ae64b1ee59724d522143e8f131d243494ee0[m
+Merge: 11afcf9 8ffc9ea
+Author: Luã Ivo Machado <43272152+limachado@users.noreply.github.com>
+Date:   Mon Sep 17 14:49:05 2018 -0300
+
+    Merge pull request #11 from devindratrainee/sprint1
+    
+    Mensagem de bem vindo
+
+[33mcommit 8ffc9ea8632e2537ea951b380ed79b3c968ee51b[m[33m ([m[1;31morigin/sprint1[m[33m)[m
+Author: Dantas Costa <kdantas@indra.es>
+Date:   Mon Sep 17 14:40:51 2018 -0300
+
+    Mensagem de bem vindo
+
+[33mcommit 11afcf9889db299491341b9fb4b30c201057201a[m
+Author: Diego Monteiro <djmonteiro@indracompany.com>
+Date:   Mon Sep 17 12:13:50 2018 -0300
+
+    Versão base
+
+[33mcommit 608934018a327b90766d474a517fb4879d8f2608[m
+Author: Dantas Costa <kdantas@indra.es>
+Date:   Mon Sep 17 12:08:38 2018 -0300
+
+    Teste
+
+[33mcommit ac0ebcbd3106e6fd406b794fddeb8a135a70bd62[m
+Author: Diego Monteiro <djmonteiro@indracompany.com>
+Date:   Fri Sep 14 17:55:54 2018 -0300
+
+    Versão Final - Estrutura de base.
+
+[33mcommit 2eca94b13f5d30268d3f5d94a8bac360ff84ac65[m
+Author: Diego Monteiro <djmonteiro@indracompany.com>
+Date:   Fri Sep 14 17:27:21 2018 -0300
+
+    Versão Final - Estrutura de base.
+
+[33mcommit 6ca210728334980def8fa29b7d57d0e164430630[m
+Author: Diego Monteiro <djmonteiro@indracompany.com>
+Date:   Fri Sep 14 17:26:25 2018 -0300
+
+    Versão Final - Estrutura de base.
+
+[33mcommit 7b2f8cf0a7fdb4e63131881a081ce6bbadc036d7[m
+Merge: d43a372 368d0fd
+Author: Diego Monteiro <djmonteiro@indracompany.com>
+Date:   Fri Sep 14 15:47:16 2018 -0300
+
+    Merge branch 'master' of https://github.com/devindratrainee/PROJECTDEFAULT
+
+[33mcommit d43a372526b69f97ea7342be80236fab74e26408[m
+Author: Diego Monteiro <djmonteiro@indracompany.com>
+Date:   Fri Sep 14 15:43:54 2018 -0300
+
+    Atualização da estrutura do projeto
+
+[33mcommit 368d0fd4babd549e9136b7635a260de3ddfa1411[m
+Author: Dantas Costa <kdantas@indra.es>
+Date:   Fri Sep 14 15:01:33 2018 -0300
+
+    Configurações iniciais - teste
+
+[33mcommit 60308b592ef9e68abd885444ccc5650656851aab[m
+Author: Diego Monteiro <djmonteiro@indracompany.com>
+Date:   Fri Sep 14 14:50:06 2018 -0300
+
+    Correcao de estrutura de pastas
+
+[33mcommit 066bebb9ac7713690cf98c5a3677da2b7db56a27[m
+Author: Monteiro <djmonteiro@indra.es>
+Date:   Fri Sep 14 14:24:20 2018 -0300
+
+    Versão 1.0 - Estrutura de Pastas
